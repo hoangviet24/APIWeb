@@ -1,0 +1,275 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\API\\WebApiCustomers\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B4586778-C6BF-4B03-B7FC-3D26F284E3A9}|WebApiCustomers\\WebApiCustomers.csproj|d:\\api\\webapicustomers\\webapicustomers\\services\\ilibraryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4586778-C6BF-4B03-B7FC-3D26F284E3A9}|WebApiCustomers\\WebApiCustomers.csproj|solutionrelative:webapicustomers\\services\\ilibraryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4586778-C6BF-4B03-B7FC-3D26F284E3A9}|WebApiCustomers\\WebApiCustomers.csproj|d:\\api\\webapicustomers\\webapicustomers\\services\\libraryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4586778-C6BF-4B03-B7FC-3D26F284E3A9}|WebApiCustomers\\WebApiCustomers.csproj|solutionrelative:webapicustomers\\services\\libraryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4586778-C6BF-4B03-B7FC-3D26F284E3A9}|WebApiCustomers\\WebApiCustomers.csproj|d:\\api\\webapicustomers\\webapicustomers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4586778-C6BF-4B03-B7FC-3D26F284E3A9}|WebApiCustomers\\WebApiCustomers.csproj|solutionrelative:webapicustomers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4586778-C6BF-4B03-B7FC-3D26F284E3A9}|WebApiCustomers\\WebApiCustomers.csproj|d:\\api\\webapicustomers\\webapicustomers\\controllers\\authorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4586778-C6BF-4B03-B7FC-3D26F284E3A9}|WebApiCustomers\\WebApiCustomers.csproj|solutionrelative:webapicustomers\\controllers\\authorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4586778-C6BF-4B03-B7FC-3D26F284E3A9}|WebApiCustomers\\WebApiCustomers.csproj|d:\\api\\webapicustomers\\webapicustomers\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4586778-C6BF-4B03-B7FC-3D26F284E3A9}|WebApiCustomers\\WebApiCustomers.csproj|solutionrelative:webapicustomers\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4586778-C6BF-4B03-B7FC-3D26F284E3A9}|WebApiCustomers\\WebApiCustomers.csproj|d:\\api\\webapicustomers\\webapicustomers\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4586778-C6BF-4B03-B7FC-3D26F284E3A9}|WebApiCustomers\\WebApiCustomers.csproj|solutionrelative:webapicustomers\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4586778-C6BF-4B03-B7FC-3D26F284E3A9}|WebApiCustomers\\WebApiCustomers.csproj|d:\\api\\webapicustomers\\webapicustomers\\data\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4586778-C6BF-4B03-B7FC-3D26F284E3A9}|WebApiCustomers\\WebApiCustomers.csproj|solutionrelative:webapicustomers\\data\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4586778-C6BF-4B03-B7FC-3D26F284E3A9}|WebApiCustomers\\WebApiCustomers.csproj|d:\\api\\webapicustomers\\webapicustomers\\migrations\\20240329080651_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4586778-C6BF-4B03-B7FC-3D26F284E3A9}|WebApiCustomers\\WebApiCustomers.csproj|solutionrelative:webapicustomers\\migrations\\20240329080651_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4586778-C6BF-4B03-B7FC-3D26F284E3A9}|WebApiCustomers\\WebApiCustomers.csproj|d:\\api\\webapicustomers\\webapicustomers\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4586778-C6BF-4B03-B7FC-3D26F284E3A9}|WebApiCustomers\\WebApiCustomers.csproj|solutionrelative:webapicustomers\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4586778-C6BF-4B03-B7FC-3D26F284E3A9}|WebApiCustomers\\WebApiCustomers.csproj|d:\\api\\webapicustomers\\webapicustomers\\model\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4586778-C6BF-4B03-B7FC-3D26F284E3A9}|WebApiCustomers\\WebApiCustomers.csproj|solutionrelative:webapicustomers\\model\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4586778-C6BF-4B03-B7FC-3D26F284E3A9}|WebApiCustomers\\WebApiCustomers.csproj|d:\\api\\webapicustomers\\webapicustomers\\model\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4586778-C6BF-4B03-B7FC-3D26F284E3A9}|WebApiCustomers\\WebApiCustomers.csproj|solutionrelative:webapicustomers\\model\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4586778-C6BF-4B03-B7FC-3D26F284E3A9}|WebApiCustomers\\WebApiCustomers.csproj|d:\\api\\webapicustomers\\webapicustomers\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4586778-C6BF-4B03-B7FC-3D26F284E3A9}|WebApiCustomers\\WebApiCustomers.csproj|solutionrelative:webapicustomers\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4586778-C6BF-4B03-B7FC-3D26F284E3A9}|WebApiCustomers\\WebApiCustomers.csproj|d:\\api\\webapicustomers\\webapicustomers\\model\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4586778-C6BF-4B03-B7FC-3D26F284E3A9}|WebApiCustomers\\WebApiCustomers.csproj|solutionrelative:webapicustomers\\model\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4586778-C6BF-4B03-B7FC-3D26F284E3A9}|WebApiCustomers\\WebApiCustomers.csproj|d:\\api\\webapicustomers\\webapicustomers\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4586778-C6BF-4B03-B7FC-3D26F284E3A9}|WebApiCustomers\\WebApiCustomers.csproj|solutionrelative:webapicustomers\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4586778-C6BF-4B03-B7FC-3D26F284E3A9}|WebApiCustomers\\WebApiCustomers.csproj|d:\\api\\webapicustomers\\webapicustomers\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B4586778-C6BF-4B03-B7FC-3D26F284E3A9}|WebApiCustomers\\WebApiCustomers.csproj|solutionrelative:webapicustomers\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "D:\\API\\WebApiCustomers\\WebApiCustomers\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "WebApiCustomers\\WeatherForecast.cs",
+              "ToolTip": "D:\\API\\WebApiCustomers\\WebApiCustomers\\WeatherForecast.cs",
+              "RelativeToolTip": "WebApiCustomers\\WeatherForecast.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T08:54:15.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Book.cs",
+              "DocumentMoniker": "D:\\API\\WebApiCustomers\\WebApiCustomers\\Model\\Book.cs",
+              "RelativeDocumentMoniker": "WebApiCustomers\\Model\\Book.cs",
+              "ToolTip": "D:\\API\\WebApiCustomers\\WebApiCustomers\\Model\\Book.cs",
+              "RelativeToolTip": "WebApiCustomers\\Model\\Book.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T08:53:05.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Author.cs",
+              "DocumentMoniker": "D:\\API\\WebApiCustomers\\WebApiCustomers\\Model\\Author.cs",
+              "RelativeDocumentMoniker": "WebApiCustomers\\Model\\Author.cs",
+              "ToolTip": "D:\\API\\WebApiCustomers\\WebApiCustomers\\Model\\Author.cs",
+              "RelativeToolTip": "WebApiCustomers\\Model\\Author.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T08:53:03.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AppDbContextModelSnapshot.cs",
+              "DocumentMoniker": "D:\\API\\WebApiCustomers\\WebApiCustomers\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "WebApiCustomers\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ToolTip": "D:\\API\\WebApiCustomers\\WebApiCustomers\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeToolTip": "WebApiCustomers\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T08:52:42.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20240329080651_initial.cs",
+              "DocumentMoniker": "D:\\API\\WebApiCustomers\\WebApiCustomers\\Migrations\\20240329080651_initial.cs",
+              "RelativeDocumentMoniker": "WebApiCustomers\\Migrations\\20240329080651_initial.cs",
+              "ToolTip": "D:\\API\\WebApiCustomers\\WebApiCustomers\\Migrations\\20240329080651_initial.cs",
+              "RelativeToolTip": "WebApiCustomers\\Migrations\\20240329080651_initial.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T08:52:40.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DbInitializer.cs",
+              "DocumentMoniker": "D:\\API\\WebApiCustomers\\WebApiCustomers\\Data\\DbInitializer.cs",
+              "RelativeDocumentMoniker": "WebApiCustomers\\Data\\DbInitializer.cs",
+              "ToolTip": "D:\\API\\WebApiCustomers\\WebApiCustomers\\Data\\DbInitializer.cs",
+              "RelativeToolTip": "WebApiCustomers\\Data\\DbInitializer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T08:52:34.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "D:\\API\\WebApiCustomers\\WebApiCustomers\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "WebApiCustomers\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "D:\\API\\WebApiCustomers\\WebApiCustomers\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "WebApiCustomers\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T08:52:21.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\API\\WebApiCustomers\\WebApiCustomers\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "WebApiCustomers\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\API\\WebApiCustomers\\WebApiCustomers\\Properties\\launchSettings.json",
+              "RelativeToolTip": "WebApiCustomers\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-29T08:44:03.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BookController.cs",
+              "DocumentMoniker": "D:\\API\\WebApiCustomers\\WebApiCustomers\\Controllers\\BookController.cs",
+              "RelativeDocumentMoniker": "WebApiCustomers\\Controllers\\BookController.cs",
+              "ToolTip": "D:\\API\\WebApiCustomers\\WebApiCustomers\\Controllers\\BookController.cs",
+              "RelativeToolTip": "WebApiCustomers\\Controllers\\BookController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T08:32:56.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuthorController.cs",
+              "DocumentMoniker": "D:\\API\\WebApiCustomers\\WebApiCustomers\\Controllers\\AuthorController.cs",
+              "RelativeDocumentMoniker": "WebApiCustomers\\Controllers\\AuthorController.cs",
+              "ToolTip": "D:\\API\\WebApiCustomers\\WebApiCustomers\\Controllers\\AuthorController.cs",
+              "RelativeToolTip": "WebApiCustomers\\Controllers\\AuthorController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T08:32:35.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LibraryService.cs",
+              "DocumentMoniker": "D:\\API\\WebApiCustomers\\WebApiCustomers\\Services\\LibraryService.cs",
+              "RelativeDocumentMoniker": "WebApiCustomers\\Services\\LibraryService.cs",
+              "ToolTip": "D:\\API\\WebApiCustomers\\WebApiCustomers\\Services\\LibraryService.cs",
+              "RelativeToolTip": "WebApiCustomers\\Services\\LibraryService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T08:31:03.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ILibraryService.cs",
+              "DocumentMoniker": "D:\\API\\WebApiCustomers\\WebApiCustomers\\Services\\ILibraryService.cs",
+              "RelativeDocumentMoniker": "WebApiCustomers\\Services\\ILibraryService.cs",
+              "ToolTip": "D:\\API\\WebApiCustomers\\WebApiCustomers\\Services\\ILibraryService.cs",
+              "RelativeToolTip": "WebApiCustomers\\Services\\ILibraryService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T08:30:01.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\API\\WebApiCustomers\\WebApiCustomers\\Program.cs",
+              "RelativeDocumentMoniker": "WebApiCustomers\\Program.cs",
+              "ToolTip": "D:\\API\\WebApiCustomers\\WebApiCustomers\\Program.cs",
+              "RelativeToolTip": "WebApiCustomers\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T07:51:50.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\API\\WebApiCustomers\\WebApiCustomers\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "WebApiCustomers\\Data\\AppDbContext.cs",
+              "ToolTip": "D:\\API\\WebApiCustomers\\WebApiCustomers\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "WebApiCustomers\\Data\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T07:51:47.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Genre.cs",
+              "DocumentMoniker": "D:\\API\\WebApiCustomers\\WebApiCustomers\\Model\\Genre.cs",
+              "RelativeDocumentMoniker": "WebApiCustomers\\Model\\Genre.cs",
+              "ToolTip": "D:\\API\\WebApiCustomers\\WebApiCustomers\\Model\\Genre.cs",
+              "RelativeToolTip": "WebApiCustomers\\Model\\Genre.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T07:48:48.528Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

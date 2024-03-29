@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\API\\REST_API_TEMPLATE\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9F4834C4-711B-431C-9220-C88AEC6D07D6}|REST_API_TEMPLATE\\REST_API_TEMPLATE.csproj|d:\\api\\rest_api_template\\rest_api_template\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F4834C4-711B-431C-9220-C88AEC6D07D6}|REST_API_TEMPLATE\\REST_API_TEMPLATE.csproj|solutionrelative:rest_api_template\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F4834C4-711B-431C-9220-C88AEC6D07D6}|REST_API_TEMPLATE\\REST_API_TEMPLATE.csproj|d:\\api\\rest_api_template\\rest_api_template\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F4834C4-711B-431C-9220-C88AEC6D07D6}|REST_API_TEMPLATE\\REST_API_TEMPLATE.csproj|solutionrelative:rest_api_template\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F4834C4-711B-431C-9220-C88AEC6D07D6}|REST_API_TEMPLATE\\REST_API_TEMPLATE.csproj|d:\\api\\rest_api_template\\rest_api_template\\controllers\\authorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F4834C4-711B-431C-9220-C88AEC6D07D6}|REST_API_TEMPLATE\\REST_API_TEMPLATE.csproj|solutionrelative:rest_api_template\\controllers\\authorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F4834C4-711B-431C-9220-C88AEC6D07D6}|REST_API_TEMPLATE\\REST_API_TEMPLATE.csproj|d:\\api\\rest_api_template\\rest_api_template\\services\\libraryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F4834C4-711B-431C-9220-C88AEC6D07D6}|REST_API_TEMPLATE\\REST_API_TEMPLATE.csproj|solutionrelative:rest_api_template\\services\\libraryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F4834C4-711B-431C-9220-C88AEC6D07D6}|REST_API_TEMPLATE\\REST_API_TEMPLATE.csproj|d:\\api\\rest_api_template\\rest_api_template\\services\\ilibraryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F4834C4-711B-431C-9220-C88AEC6D07D6}|REST_API_TEMPLATE\\REST_API_TEMPLATE.csproj|solutionrelative:rest_api_template\\services\\ilibraryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BookController.cs",
+              "DocumentMoniker": "D:\\API\\REST_API_TEMPLATE\\REST_API_TEMPLATE\\Controllers\\BookController.cs",
+              "RelativeDocumentMoniker": "REST_API_TEMPLATE\\Controllers\\BookController.cs",
+              "ToolTip": "D:\\API\\REST_API_TEMPLATE\\REST_API_TEMPLATE\\Controllers\\BookController.cs",
+              "RelativeToolTip": "REST_API_TEMPLATE\\Controllers\\BookController.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAkwFcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T12:16:01.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthorController.cs",
+              "DocumentMoniker": "D:\\API\\REST_API_TEMPLATE\\REST_API_TEMPLATE\\Controllers\\AuthorController.cs",
+              "RelativeDocumentMoniker": "REST_API_TEMPLATE\\Controllers\\AuthorController.cs",
+              "ToolTip": "D:\\API\\REST_API_TEMPLATE\\REST_API_TEMPLATE\\Controllers\\AuthorController.cs",
+              "RelativeToolTip": "REST_API_TEMPLATE\\Controllers\\AuthorController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T12:15:39.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LibraryService.cs",
+              "DocumentMoniker": "D:\\API\\REST_API_TEMPLATE\\REST_API_TEMPLATE\\Services\\LibraryService.cs",
+              "RelativeDocumentMoniker": "REST_API_TEMPLATE\\Services\\LibraryService.cs",
+              "ToolTip": "D:\\API\\REST_API_TEMPLATE\\REST_API_TEMPLATE\\Services\\LibraryService.cs",
+              "RelativeToolTip": "REST_API_TEMPLATE\\Services\\LibraryService.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAAUwLQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T12:14:24.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ILibraryService.cs",
+              "DocumentMoniker": "D:\\API\\REST_API_TEMPLATE\\REST_API_TEMPLATE\\Services\\ILibraryService.cs",
+              "RelativeDocumentMoniker": "REST_API_TEMPLATE\\Services\\ILibraryService.cs",
+              "ToolTip": "D:\\API\\REST_API_TEMPLATE\\REST_API_TEMPLATE\\Services\\ILibraryService.cs",
+              "RelativeToolTip": "REST_API_TEMPLATE\\Services\\ILibraryService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T12:14:09.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\API\\REST_API_TEMPLATE\\REST_API_TEMPLATE\\Program.cs",
+              "RelativeDocumentMoniker": "REST_API_TEMPLATE\\Program.cs",
+              "ToolTip": "D:\\API\\REST_API_TEMPLATE\\REST_API_TEMPLATE\\Program.cs",
+              "RelativeToolTip": "REST_API_TEMPLATE\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T12:04:43.035Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
